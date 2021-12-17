@@ -1,0 +1,11 @@
+[meta]
+name = "Load Map with URL"
+author = "Greep"
+category = "Utilities"
+perms = "paid"
+siteid = 150
+
+version = "1.0"
+
+[script]
+imports = [ "Icons.as", "Permissions.as" ]
